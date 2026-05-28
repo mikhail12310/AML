@@ -1,4 +1,3 @@
-Yeah — for GitHub, a README should be **concise, scannable, and recruiter-friendly**. Here's a cleaner version:
 
 ---
 
